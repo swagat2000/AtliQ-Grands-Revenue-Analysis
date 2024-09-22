@@ -7,7 +7,7 @@ This dashboard provides a detailed view of key performance indicators (KPIs) for
 
 
  
- Dashboard link : 
+ Dashboard link : https://app.powerbi.com/groups/me/reports/3643d514-a493-4e28-9ade-514b797862fe/88914d0e56400789c376?experience=power-bi
 
 ---
 
