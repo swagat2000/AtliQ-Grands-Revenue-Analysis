@@ -11,7 +11,6 @@ This dashboard provides a detailed view of key performance indicators (KPIs) for
 
 ---
 
-#### Analysis
 
 ### 1. **Header KPIs**
 The header section showcases high-level KPIs essential for understanding the business's overall performance. These KPIs are designed to give a quick snapshot of the current period's metrics along with the percentage changes compared to the previous week (PW).
@@ -117,4 +116,4 @@ These filters enable users to slice the data for specific time periods, customer
 3. **Cancellations**: The cancellation rate is fairly high (24.83%), indicating a potential area of improvement.
 4. **Property Performance**: AtliQ Blu and AtliQ Palace have the highest ADR and RevPAR among the listed properties, but cancellation rates are similar across all properties (~24%).
 
-This dashboard provides a detailed yet comprehensive look at the overall performance of AtliQ Grands and its individual properties, offering a holistic overview for decision-making in revenue management, property optimization, and customer behavior analysis.
+
